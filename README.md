@@ -16,7 +16,7 @@ Praticar os conhecimentos adquiridos sobre HTML5 e CSS
 
 ```
 
-## :pager: Tela principal da Site UNES 
+## :pager: Tela principal da Site Notícias da Cidade 
 
  <img src="img/notociascidade.jpg" alt="Tela Principal">
 
