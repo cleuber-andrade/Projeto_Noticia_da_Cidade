@@ -11,8 +11,8 @@ Projeto feito para aplicar novos conhecimentos adquiridos sobre HTML e CSS
 ```bash
 Praticar os conhecimentos adquiridos sobre HTML5 e CSS
 
--Praticar conhecimento sobre float em CSS
--Utilizaçao de novas tag em HTML
+-Praticar conhecimento sobre float em CSS;
+-Utilizaçao de novas tag em HTML;
 
 ```
 
