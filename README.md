@@ -27,7 +27,7 @@ Praticar os conhecimentos adquiridos sobre HTML5 e CSS
 
  <img src="img/notociascidade.jpg" alt="Tela Principal">
  
-## 💻 Link para acessar site no GitHubPages
+## :globe_with_meridians: Link para acessar site no GitHubPages
 
 Para visualizar o site no GitHubPages <a href="https://cleuber-andrade.github.io/Projeto_Noticia_da_Cidade/" target="_blank">Clique aqui</a> 
 
