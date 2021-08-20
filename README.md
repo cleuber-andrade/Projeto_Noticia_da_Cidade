@@ -26,8 +26,12 @@ Praticar os conhecimentos adquiridos sobre HTML5 e CSS
 ## :pager: Tela principal da Site Notícias da Cidade 
 
  <img src="img/notociascidade.jpg" alt="Tela Principal">
+ 
+## 💻 Link para acessar site no GitHubPages
 
- # 👷 Como rodar
+Para visualizar o site no GitHubPages <a href="https://cleuber-andrade.github.io/Projeto_Noticia_da_Cidade/" target="_blank">Clique aqui</a> 
+
+## 👷 Como rodar
 
 ```bash
 # Clonar o repositório
